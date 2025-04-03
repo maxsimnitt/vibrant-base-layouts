@@ -22,7 +22,7 @@ const LandingPage = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link to="/register">
-              <Button size="lg" variant="default" className="bg-white text-primary hover:bg-gray-100">
+              <Button size="lg" variant="outline" className="text-primary border-white hover:bg-white/10 hover:text-white">
                 Register as Speaker/Company
               </Button>
             </Link>
