@@ -27,7 +27,7 @@ const LandingPage = () => {
               </Button>
             </Link>
             <Link to="/subscribe">
-              <Button size="lg" variant="outline" className="text-white border-white hover:bg-white/10">
+              <Button size="lg" variant="outline" className="text-white border-white hover:bg-white/10 hover:text-white">
                 Subscribe to Updates
               </Button>
             </Link>
